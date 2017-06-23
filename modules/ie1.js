@@ -27,4 +27,6 @@ var fred = User();
 
 fred.login('fred', '12345');
 
+// add some things for checking git
+
 
