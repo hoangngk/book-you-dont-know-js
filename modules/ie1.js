@@ -28,5 +28,3 @@ var fred = User();
 fred.login('fred', '12345');
 
 
-
-// add something for using checkout
